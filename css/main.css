@@ -246,11 +246,13 @@
 }
 
 .services-title {
-  margin-top: 0px;
-  margin-bottom: 50px;
-  font-weight: bold;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: var(--title-text-color);
+
+  font-weight: 700;
   font-size: 36px;
-  line-height: 1.2;
+  line-height: 1.67;
   text-align: center;
   letter-spacing: 0.03em;
 }
